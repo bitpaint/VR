@@ -20,3 +20,6 @@ World id:
 -Add avatar: Not Satoshi (by @Zerovrc)
 -Colors and lights modifications
 -Moved spawn in front of
+-Added Occlusion culling
+-Baked lightmaps
+-Added lightprobes
