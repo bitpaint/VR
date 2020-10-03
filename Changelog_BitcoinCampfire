@@ -34,3 +34,33 @@ World id:wrld_687d595c-af18-452b-b149-aa663d102c9b
 - Moved spawn closer to fire
 - Baked lightmaps
 - Texture compression
+
+_____________________________________________________________________
+
+Bitcoin campfire version1.04 - Release date: 01 October 2020
+
+World id:wrld_687d595c-af18-452b-b149-aa663d102c9b
+
+- Otimized Chess table
+- Removed excessive Pens
+- Moved trees
+- Controls for mirror and fire
+- Changed chairs to rocks
+- Moved spawn closer to mirror
+- Baked lightmaps in higher resolution
+
+
+
+_____________________________________________________________________
+
+Bitcoin campfire version1.05 - Release date: 03 October 2020
+
+World id:wrld_687d595c-af18-452b-b149-aa663d102c9b
+
+- Quest optimisation
+- Added fog
+- Added archery
+- Added environement trees
+- Added button for archery
+- Added button for realtime lights
+- Added chairs in trees and other places inside environement
