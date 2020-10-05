@@ -1,0 +1,22 @@
+World id: 
+
+MAP1 (Introduction):  wrld_687d595c-af18-452b-b149-aa663d102c9b
+MAP2 (Chapter1):  wrld_f6a5cab5-687b-41ec-82eb-159733f3df54
+
+
+_____________________________________________________________________
+21 Lessons VR version0.93 - Release date: 05 Otober 2020
+
+MAP1:
+- Baked lightmaps for Quest
+- Uploaded quest version
+- Submited to the VRChat labs.
+
+MAP2:
+- Finishing environement
+- Added player for Chapter 1
+- Baking lightmaps for PC
+
+Other:
+- Created prefab for audio player
+- Optimized general audiobook size using 64kbps mono.
