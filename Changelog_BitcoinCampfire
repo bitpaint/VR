@@ -3,21 +3,31 @@ World id:wrld_687d595c-af18-452b-b149-aa663d102c9b
 
 _____________________________________________________________________
 
-Bitcoin campfire version1.01 - Release date: 02 September 2020
+Bitcoin campfire version1.05 - Release date: 03 October 2020
 
--General optimisation
--Modified chairs
--Added axe for Ethan
--Added mirror
+World id:wrld_687d595c-af18-452b-b149-aa663d102c9b
+
+- Quest optimisation
+- Added fog
+- Added archery
+- Added environement trees
+- Added button for archery
+- Added button for realtime lights
+- Added chairs in trees and other places inside environement
 
 _____________________________________________________________________
 
-Bitcoin campfire version1.02 - Release date: 08 September 2020
+Bitcoin campfire version1.04 - Release date: 01 October 2020
 
--Added Occlusion culling
--Modified axe
--Modified mirror trigger
+World id:wrld_687d595c-af18-452b-b149-aa663d102c9b
 
+- Otimized Chess table
+- Removed excessive Pens
+- Moved trees
+- Controls for mirror and fire
+- Changed chairs to rocks
+- Moved spawn closer to mirror
+- Baked lightmaps in higher resolution
 
 _____________________________________________________________________
 
@@ -37,30 +47,23 @@ World id:wrld_687d595c-af18-452b-b149-aa663d102c9b
 
 _____________________________________________________________________
 
-Bitcoin campfire version1.04 - Release date: 01 October 2020
+Bitcoin campfire version1.02 - Release date: 08 September 2020
 
-World id:wrld_687d595c-af18-452b-b149-aa663d102c9b
-
-- Otimized Chess table
-- Removed excessive Pens
-- Moved trees
-- Controls for mirror and fire
-- Changed chairs to rocks
-- Moved spawn closer to mirror
-- Baked lightmaps in higher resolution
-
+-Added Occlusion culling
+-Modified axe
+-Modified mirror trigger
 
 
 _____________________________________________________________________
 
-Bitcoin campfire version1.05 - Release date: 03 October 2020
+Bitcoin campfire version1.01 - Release date: 02 September 2020
 
-World id:wrld_687d595c-af18-452b-b149-aa663d102c9b
+-General optimisation
+-Modified chairs
+-Added axe for Ethan
+-Added mirror
 
-- Quest optimisation
-- Added fog
-- Added archery
-- Added environement trees
-- Added button for archery
-- Added button for realtime lights
-- Added chairs in trees and other places inside environement
+
+
+
+
