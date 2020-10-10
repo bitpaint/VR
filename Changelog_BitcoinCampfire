@@ -1,32 +1,24 @@
-
+Bitcoin campfire & chess
 World id:wrld_687d595c-af18-452b-b149-aa663d102c9b
+FPS test at spawn: PC:91-91 | Laptop:87-62 | Quest:70-52
+PC & Quest compatible.
 
 _____________________________________________________________________
-
 Bitcoin campfire version1.07 - Release date: 10 October 2020
-FPS test at spawn:
-
-PC:91-91
-Laptop:87-62
-Quest:70-52
-
 
 Changes:
 - Added  "FOMO" the second Bitcoin Pumpkin by CQ @VoltageGoat
-- Added FX inside
+- Added FX inside FOMO & SLOMO
 - Added big pumpkin 
 - Added light indide big pumpkin, trigger it with the "Realtime light" pannel.
 - Rebaked everything
 
-
 _____________________________________________________________________
-
 Bitcoin campfire version1.06 - Release date: 08 October 2020
 
 - Added  "SLOMO" the Bitcoin Pumpkin by CQ @VoltageGoat
 
 _____________________________________________________________________
-
 Bitcoin campfire version1.05 - Release date: 03 October 2020
 
 - Added postprocessing
@@ -39,7 +31,6 @@ Bitcoin campfire version1.05 - Release date: 03 October 2020
 - Added chairs in trees and other places inside environement
 
 _____________________________________________________________________
-
 Bitcoin campfire version1.04 - Release date: 01 October 2020
 
 - Otimized Chess table
@@ -51,7 +42,6 @@ Bitcoin campfire version1.04 - Release date: 01 October 2020
 - Baked lightmaps in higher resolution
 
 _____________________________________________________________________
-
 Bitcoin campfire version1.03 - Release date: 29 September 2020
 
 - Added Chess table (sponsored by Bitaroo)
@@ -65,7 +55,6 @@ Bitcoin campfire version1.03 - Release date: 29 September 2020
 - Texture compression
 
 _____________________________________________________________________
-
 Bitcoin campfire version1.02 - Release date: 08 September 2020
 
 -Added Occlusion culling
@@ -74,7 +63,6 @@ Bitcoin campfire version1.02 - Release date: 08 September 2020
 
 
 _____________________________________________________________________
-
 Bitcoin campfire version1.01 - Release date: 02 September 2020
 
 -General optimisation
