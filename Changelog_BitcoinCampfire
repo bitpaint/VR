@@ -1,10 +1,35 @@
 Bitcoin campfire & chess
 World id:wrld_687d595c-af18-452b-b149-aa663d102c9b
-FPS test at spawn: PC:91-91 | Laptop:87-62 | Quest:70-52
-PC & Quest compatible.
+
+_____________________________________________________________________
+Bitcoin campfire version1.08 - Release date: 13 October 2020
+FPS test at spawn: PC:91-91 | Laptop:74-53 | Quest:67-44
+
+Changes:
+- Added menus:
+      - World settings (campfire - snow - hide pens - clear pens - postprocessing - players shadows)
+      - Chess settings (start a new game - hide pieces - debug pieces - reset board - light)
+
+- Added hill & wizard house (exterior only) - optimized materials for quest.
+- Added "reset board" button to the chess board with others debug stuff.
+- Added snow, toggle from the World settings menu.
+- Added a second working bow.
+- Added seats on top of the big Bitcoin
+- Added props: direction - lamps - barrier and others.
+
+- Moved archery target, now on by default.
+- Moved chess board, now on by default.
+- Modified mirror
+- Modified spawn point
+- Modified post-processing settings: bloom and post exposure
+- Rebaked everything with better settings.
+- Fixed colliders under the bridge
+- Fixed chair selector
+
 
 _____________________________________________________________________
 Bitcoin campfire version1.07 - Release date: 10 October 2020
+FPS test at spawn: PC:91-91 | Laptop:87-62 | Quest:70-52
 
 Changes:
 - Added  "FOMO" the second Bitcoin Pumpkin by CQ @VoltageGoat
@@ -33,10 +58,10 @@ Bitcoin campfire version1.05 - Release date: 03 October 2020
 _____________________________________________________________________
 Bitcoin campfire version1.04 - Release date: 01 October 2020
 
-- Otimized Chess table
+- Otimized Chess table with low poly pieces From 1'150'000 polys to 30'000.
 - Removed excessive Pens
 - Moved trees
-- Controls for mirror and fire
+- Button for mirror and fire
 - Changed chairs to rocks
 - Moved spawn closer to mirror
 - Baked lightmaps in higher resolution
@@ -47,29 +72,26 @@ Bitcoin campfire version1.03 - Release date: 29 September 2020
 - Added Chess table (sponsored by Bitaroo)
 - Added Pens
 - Added environement trees
-- Optimized mirror
 - Modified fire
 - Deleted 2 chairs
 - Moved spawn closer to fire
 - Baked lightmaps
 - Texture compression
-
+- Optimized mirror
 _____________________________________________________________________
 Bitcoin campfire version1.02 - Release date: 08 September 2020
 
--Added Occlusion culling
 -Modified axe
 -Modified mirror trigger
-
+-Added Occlusion culling
 
 _____________________________________________________________________
 Bitcoin campfire version1.01 - Release date: 02 September 2020
 
--General optimisation
 -Modified chairs
 -Added axe for Ethan
 -Added mirror
-
+-General optimisation
 
 
 
