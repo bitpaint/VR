@@ -4,7 +4,26 @@ MAP1 (Introduction):  wrld_687d595c-af18-452b-b149-aa663d102c9b
 MAP2 (ChapterI & II):  wrld_f6a5cab5-687b-41ec-82eb-159733f3df54
 MAP2: (Chapter II & III): not_uploaded_yet
 
+
+
+
 _____________________________________________________________________
+21 Lessons VR version0.94 - Release date: 06 Otober 2020
+
+MAP1:
+- Added post processing
+
+MAP2:
+- Finished player for Chapter I
+- Added player for Chapter II
+- Baking lightmaps for PC
+
+MAP3:
+- Starting design.
+
+
+_____________________________________________________________________
+
 21 Lessons VR version0.93 - Release date: 05 Otober 2020
 
 MAP1:
@@ -20,17 +39,3 @@ MAP2:
 Other:
 - Created prefab for audio player
 - Optimized general audiobook size using 64kbps mono.
-
-_____________________________________________________________________
-21 Lessons VR version0.94 - Release date: 06 Otober 2020
-
-MAP1:
-- Added post processing
-
-MAP2:
-- Finished player for Chapter I
-- Added player for Chapter II
-- Baking lightmaps for PC
-
-MAP3:
-- Forked MAP2 dunno if it's a good idea. will see tmrw.
