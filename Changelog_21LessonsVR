@@ -2,8 +2,27 @@ World id:
 
 MAP1 (Introduction):  wrld_687d595c-af18-452b-b149-aa663d102c9b
 MAP2 (ChapterI & II):  wrld_f6a5cab5-687b-41ec-82eb-159733f3df54
-MAP2: (Chapter II & III): not_uploaded_yet
+MAP3: (Chapter II & III): wrld_25ad8696-c08d-48d9-b0b3-e374434b3e99
 
+_____________________________________________________________________
+21 Lessons VR version0.95 - Release date: 18 Otober 2020
+
+MAP1:
+- Baked everything
+- Added Portal to MAP2
+- Uploaded final PC version.
+- Changed fog from FX to standard unity fog.
+- Fixed stop button
+
+MAP2:
+- Changed lamps
+- Baked LM & placed Light probes
+- Changed fog from FX to standard unity fog.
+- Added Portal to MAP3
+
+MAP3:
+- Finished design. uploaded first PC version to get a wrld_id
+- Added Portal to Campfire
 
 
 
