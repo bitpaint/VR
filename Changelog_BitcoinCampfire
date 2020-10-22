@@ -17,7 +17,7 @@ FPS test at spawn: PC:not_tested_yet | Laptop:not_tested_yet | Quest:not_tested_
 - Baked lightmaps again
 - Added Floor fog fx
 - Removed Unity fog
-- Fix reflaction probe for water reflection, better but still not perfect.
+- Fix reflection probe for water reflection, better but still not perfect.
       
 _____________________________________________________________________
 Bitcoin campfire version1.08b - Release date: 14 October 2020
