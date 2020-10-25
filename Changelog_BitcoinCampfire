@@ -11,16 +11,20 @@ FPS test at spawn: PC:not_tested_yet | Laptop:not_tested_yet | Quest:not_tested_
       - Credits
 - Added Props everywhere.
 - Added the cauldron, created animation for it with trigger.
+- Added collider that you can trigger on the pumpkin
 - Added pickupable props
 - Added Ghosts
 - Modified Skybox
+- Moved spawn
+- Added candle with realtime on it.
 - Baked lightmaps again
 - Added Floor fog fx
 - Removed Unity fog
 - Fix reflection probe for water reflection, better but still not perfect.
+- Fix chairs tree
       
 _____________________________________________________________________
-Bitcoin campfire version1.08b - Release date: 14 October 2020
+Bitcoin campfire version1.09 - Release date: 14 October 2020
 FPS test at spawn: PC:91-91 | Laptop:74-53 | Quest:67-44
 
 - Fixed player shadows
