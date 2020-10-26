@@ -27,6 +27,7 @@ FPS test at spawn: PC:91-91 | Laptop:91-74 | Quest:57-45
 - Removed Unity fog
 - Fix reflection probe for water reflection, better but still not perfect.
 - Fix chairs tree
+-Add avatar: Not Satoshi (by @Zerovrc)
       
 _____________________________________________________________________
 Bitcoin campfire version1.09 - Release date: 14 October 2020
